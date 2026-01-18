@@ -163,3 +163,6 @@ data/
 images/
 
 .DS_Store
+
+synthetic_*
+.*
